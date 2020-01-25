@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e1d8e8a-33c3-4d23-8d9d-6f17de78a570" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VnsifxI8gLgXzZfBzkMKbXKhFb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="C:/Program Files/Amazon/AWSSAMCLI/bin/sam.cmd" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="d20serverless" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.ttrzcinski.d20serverless.backend" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.org.ttrzcinski.d20serverless in D20Serverless">
+    <configuration name="All in D20Serverless" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="D20Serverless" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="D20Serverless" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ttrzcinski.d20serverless.dictonaries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.ttrzcinski.d20serverless" />
+      <option name="MAIN_CLASS_NAME" value="org.ttrzcinski.d20serverless.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.successfulResponse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="D20Serverless" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ttrzcinski.d20serverless.dictonaries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.ttrzcinski.d20serverless" />
+      <option name="MAIN_CLASS_NAME" value="org.ttrzcinski.d20serverless.AppTest" />
+      <option name="METHOD_NAME" value="successfulResponse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.ttrzcinski.d20serverless in D20Serverless" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="D20Serverless" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ttrzcinski.d20serverless.dictonaries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.ttrzcinski.d20serverless" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[Local] App" type="aws.lambda" factoryName="Local" temporary="true" nameIsGenerated="true">
+      <option name="credentialProviderId" value="profile:default" />
+      <option name="regionId" value="eu-west-1" />
+      <option name="debugHost" value="localhost" />
+      <option name="environmentVariables">
+        <map />
+      </option>
+      <option name="handler" value="org.ttrzcinski.d20serverless.App" />
+      <option name="logicalFunctionName" />
+      <option name="memorySize" value="128" />
+      <option name="runtime" value="java8" />
+      <option name="templateFile" />
+      <option name="timeout" value="300" />
+      <option name="useTemplate" value="false" />
+      <option name="input" />
+      <option name="inputIsFile" value="false" />
+      <sam>
+        <option name="additionalBuildArgs" value="" />
+        <option name="additionalLocalArgs" value="" />
+        <option name="buildInContainer" value="false" />
+        <option name="dockerNetwork" value="" />
+        <option name="skipImagePull" value="false" />
+      </sam>
+      <method v="2" />
+    </configuration>
+    <configuration name="[Local] HelloWorldFunction" type="aws.lambda" factoryName="Local" nameIsGenerated="true">
+      <option name="credentialProviderId" />
+      <option name="regionId" value="eu-central-1" />
+      <option name="debugHost" value="localhost" />
+      <option name="environmentVariables">
+        <map />
+      </option>
+      <option name="handler" />
+      <option name="logicalFunctionName" />
+      <option name="memorySize" value="128" />
+      <option name="runtime" />
+      <option name="templateFile" value="$PROJECT_DIR$/template.yaml" />
+      <option name="timeout" value="300" />
+      <option name="useTemplate" value="true" />
+      <option name="input" />
+      <option name="inputIsFile" value="false" />
+      <sam>
+        <option name="additionalBuildArgs" value="" />
+        <option name="additionalLocalArgs" value="" />
+        <option name="buildInContainer" value="false" />
+        <option name="dockerNetwork" value="" />
+        <option name="skipImagePull" value="false" />
+      </sam>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.org.ttrzcinski.d20serverless in D20Serverless" />
+        <item itemvalue="JUnit.AppTest" />
+        <item itemvalue="JUnit.AppTest.successfulResponse" />
+        <item itemvalue="AWS Lambda.[Local] App" />
+        <item itemvalue="JUnit.All in D20Serverless" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../endpoints-scala-workshop" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e1d8e8a-33c3-4d23-8d9d-6f17de78a570" name="Default Changelist" comment="" />
+      <created>1577900321239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577900321239</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#Notifications" timestamp="1578008644104">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1578008644104" />
+    <state x="405" y="0" width="740" height="824" key="#[Local]_App" timestamp="1579974697448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="405" y="0" width="740" height="824" key="#[Local]_App/0.0.1536.824@0.0.1536.824" timestamp="1579974697448" />
+    <state x="405" y="0" width="740" height="824" key="#[Local]_HelloWorldFunction" timestamp="1577923007521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="405" y="0" width="740" height="824" key="#[Local]_HelloWorldFunction/0.0.1536.824@0.0.1536.824" timestamp="1577923007521" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577924596029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577924596029" />
+    <state x="574" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1579989488436">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1579989488436" />
+    <state x="449" y="141" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579988920511">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="141" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1579988920511" />
+    <state x="555" y="273" width="436" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579990453359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="273" width="436" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1579990453359" />
+    <state x="510" y="266" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579990465147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="266" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1579990465147" />
+    <state x="804" y="253" key="FileChooserDialogImpl" timestamp="1578010040912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="804" y="253" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578010040912" />
+    <state width="1492" height="210" key="GridCell.Tab.0.bottom" timestamp="1579990727929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579990727929" />
+    <state width="1492" height="210" key="GridCell.Tab.0.center" timestamp="1579990727929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579990727929" />
+    <state width="1492" height="210" key="GridCell.Tab.0.left" timestamp="1579990727929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579990727929" />
+    <state width="1492" height="210" key="GridCell.Tab.0.right" timestamp="1579990727929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579990727929" />
+    <state x="439" y="112" key="NewModule_or_Project.wizard" timestamp="1578010046955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="112" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1578010046955" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1579974844713">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579974844713" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1577924567969">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577924567969" />
+    <state x="540" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1577901696092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1577901696092" />
+    <state x="463" y="144" width="609" height="536" key="find.popup" timestamp="1577922791051">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="144" width="609" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1577922791051" />
+    <state x="209" y="138" key="new project wizard" timestamp="1578009987058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="138" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1578009987058" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1577902684522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1577902684522" />
+  </component>
+</project>
